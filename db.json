@@ -1,0 +1,73 @@
+{
+  "login": 
+	{
+		"membercode":"1004",
+		"loginid":"mkt01",
+		"branchcode":"3",
+		"token":"1004mkt01356",
+		"errorcode":"0",
+		"message":" Valid Login"
+	}
+  ,
+  "logout": 
+	{
+		"errorcode":"0",
+		"message":""
+	},
+  "Ipoorder": 
+	{
+		"scripid": "bseipo",
+		"applicationno": "appno1",
+		"category": "ind",
+		"applicantname": "xyz",
+		"depository": "cdsl",
+		"dpid": "0",
+		"clientbenfid":"1234567890123456",
+		"chequereceivedflag": "y",
+		"chequeamount": "100",
+		"panno": "afaka2323l",
+		"bankname": "8888",
+		"location": "upiidl",
+		"accountnumber_upiid”: "9967711096@upi",
+		"ifsccode": "",
+		"referenceno": "123456",
+		"asba_upiid": "1",
+		"statuscode": "00",
+		"statusmessage": "success",
+		"errorcode":null,
+		 "errormessage":null,
+		"bids": 
+		 [
+			{
+				"bidid": "25", 
+				"quantity": "100", 
+				"rate": "55.30", 
+				"cuttoffflag": "0",
+				"orderno":"1234",
+				"actioncode": "n",
+				"errorcode": "0",
+				"message": "Bid Entry Accepted,Bid id 25"
+			}, 
+			{ 
+				"bidid": "26", 
+				"quantity": "100", 
+				"rate": "55.30", 
+				"cuttoffflag": "0",
+				"orderno":"1235",
+				"actioncode": "n",
+				"errorcode": "0",
+				"message": " Bid Entry Accepted,Bid id 26"
+			 } ,
+			 { 
+				"bidid": "24", 
+				"quantity": "100", 
+				"rate": "55.30", 
+				"cuttoffflag": "0",
+				 "orderno":"1236", 
+				"actioncode": "n",
+				"errorcode": "0",
+				"message": " Bid Entry Accepted,Bid id 27"
+			 }
+		] 
+	}
+}
